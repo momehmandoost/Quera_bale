@@ -1,4 +1,4 @@
-# Quera x Bale
+# Quera x Bale Q1
 
 This library is one of the solutions for the first question of Quera x Bale competition.
 You can find the question from [this link](https://quera.org/problemset/183834/).
